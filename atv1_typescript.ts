@@ -1,3 +1,8 @@
+//Reformule a solução da "Atividade 08 - Funções" do módulo "Lógica de Programação", inicialmente
+//implementada em JavaScript, para utilizar a linguagem TypeScript. Reescreva o código da solução,
+//garantindo a correta aplicação dos conceitos e fundamentos do TypeScript.
+
+//OBS.:
 //Quando uma função não possui um tipo de retorno especificado, seu tipo de retorno é implicitamente definido como void, o que significa que a função não retorna um valor específico.
 //A escolha entre uma função com retorno explícito (number) e uma função sem retorno explícito (void) depende das necessidades do programa. Se você precisar 
 //apenas exibir o resultado, a primeira abordagem é suficiente. Se você precisa usar o resultado em cálculos posteriores, a segunda abordagem é mais apropriada.
